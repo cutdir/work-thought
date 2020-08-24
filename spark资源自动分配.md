@@ -26,7 +26,7 @@
   
 针对动态资源调整，我搜索到了脸书对其的应用：
 
-,,,,
+![Image text](https://github.com/cutdir/work-thought/blob/master/imgs/%E5%8A%A8%E6%80%81%E8%B5%84%E6%BA%90%E5%88%86%E9%85%8D.png)
 
 **下面从源码进行简单的解析**
 
